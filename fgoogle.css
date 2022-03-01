@@ -11,12 +11,19 @@ body {
 
 .search {
   display: flex;
+  height: 30px;
+  justify-content: center;
+}
+.button {
+  padding: 1%;
+  margin-right: 5%;
+  display: flex;
   justify-content: center;
 }
 
-button {
-  background-color: lightgrey;
-  color: white;
-  width: 5%;
-  height: 30%;
+.random {
+  margin-top: -2.3%;
+  margin-left: 5%;
+  display: flex;
+  justify-content: center;
 }
