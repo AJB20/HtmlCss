@@ -1,25 +1,22 @@
 body {
   background-color: rgb(58, 53, 53);
-}
-
-nav {
-  display: flex;
-  flex-direction: row;
   color: white;
 }
 
-button {
-  width: 5%;
-}
-
 .logo {
+  margin-top: 10%;
   display: flex;
   justify-content: center;
-  margin-top: 5%;
 }
 
 .search {
   display: flex;
   justify-content: center;
-  margin-top: 2%;
+}
+
+button {
+  background-color: lightgrey;
+  color: white;
+  width: 5%;
+  height: 30%;
 }
