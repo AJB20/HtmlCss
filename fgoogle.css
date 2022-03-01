@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(58, 53, 53);
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  color: white;
+}
+
+button {
+  width: 5%;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+  margin-top: 2%;
+}
