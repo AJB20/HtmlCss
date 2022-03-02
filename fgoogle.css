@@ -11,8 +11,9 @@ body {
 
 .search {
   display: flex;
-  height: 3%;
+  height: 2%;
   justify-content: center;
+  color: white;
 }
 .button {
   padding: 1%;
@@ -26,4 +27,17 @@ body {
   margin-left: 5%;
   display: flex;
   justify-content: center;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 85%;
+  font-family: sans-serif;
+}
+
+a {
+  color: white;
+  text-decoration: none;
 }
