@@ -36,3 +36,7 @@ footer {
   bottom: 0;
   flex-direction: row;
 }
+
+img {
+  max-width: 10%;
+}
