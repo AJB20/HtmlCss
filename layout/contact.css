@@ -35,4 +35,5 @@ footer {
   position: fixed;
   bottom: 0;
   flex-direction: row;
+  width: 150em;
 }
